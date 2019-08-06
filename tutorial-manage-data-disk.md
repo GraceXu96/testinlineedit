@@ -24,7 +24,7 @@ ms.subservice: disks
 
 # Tutorial - Manage Azure disks with Azure PowerShell
 
-Azure virtual machines use disks to store the VMs operating system, applications, and data. When creating a VM, it's important to choose a disk size and configuration appropriate to the expected workload. This tutorial covers deploying and managing VM disks. You learn about: 
+Azure virtual machines use disks to store the VMs operating system, applications, and data. When creating a VM, it's important to choose a disk size and configuration appropriate to the expected workload. SECOND ADDThis tutorial covers deploying and managing VM disks. You learn about: 
 
 
 > [!div class="checklist"]
@@ -197,6 +197,7 @@ Advance to the next tutorial to learn about automating VM configuration.
 
 
  
+
 
 
 
